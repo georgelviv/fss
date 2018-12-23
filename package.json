@@ -1,0 +1,12 @@
+{
+  "name": "fss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "author": "Yura Shkoropad",
+  "license": "ISC",
+  "bin": "./src/index.js",
+  "dependencies": {
+    "through2": "^3.0.0"
+  }
+}
