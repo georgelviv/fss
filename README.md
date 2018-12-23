@@ -2,6 +2,7 @@
 fss command line util to work with file system
 
 Suppored commands
-clone
+
+*clone*
 
 `$ fs clone [options?] [source] [destination?]`
